@@ -1,0 +1,1 @@
+I'm not sure if I was just confused but these classes seemed extremely messy and didn't really make any sense to me. I honestly couldn't even figure out what some of the methods were trying to accomplish so I didn't get very far on this one.
